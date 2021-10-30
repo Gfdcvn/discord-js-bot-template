@@ -12,3 +12,7 @@
 
 # how to report a bug
 Submit an issue or just make a pull request with the right code!
+
+#hosting on replit
+
+[![Run on Repl.it](https://repl.it/badge/github/Gfdcvn/discord-js-bot-template)](https://repl.it/github/Gfdcvn/discord-js-bot-template)
